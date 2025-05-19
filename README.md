@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/josueferreiraferreira/) [![Web Badge](https://img.shields.io/badge/-Mi_Web-blue?style=for-the-badge&logo=microsoftedge&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://josueferreira.cl/)
 
 
-Soy un técnico profesional en programación y análisis de sistemas, con experiencia en varios lenguajes de programación y frameworks. Mi principal área de enfoque es el desarrollo web, ademas tengo experiencia en el manejo de bases de datos SQL y no SQL como MongoDB. Utilizo herramientas como Git y GitHub para el control de versiones y colaboración en proyectos de software.
+Soy un profesional, con experiencia en varios lenguajes de programación y frameworks. Mi principal área de enfoque es el desarrollo web, ademas tengo experiencia en el manejo de bases de datos SQL y no SQL como MongoDB. Utilizo herramientas como Git y GitHub para el control de versiones y colaboración en proyectos de software.
 
 
 ## Habilidades y Conocimientos
